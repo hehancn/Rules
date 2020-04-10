@@ -1,0 +1,10 @@
+## > BBC
+USER-AGENT,BBCiPlayer*
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbci.co
+DOMAIN-SUFFIX,bbcchinese.com
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live

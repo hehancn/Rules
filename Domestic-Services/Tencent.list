@@ -1,0 +1,13 @@
+## > 腾讯
+USER-AGENT,live4iphone*
+USER-AGENT,qqlive4iphone*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+DOMAIN-SUFFIX,video.qq.com
+DOMAIN-SUFFIX,smtcdns.com
+DOMAIN-SUFFIX,tivitv.com
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,qqmusic.qq.com
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN,aqqmusic.tc.qq.com
