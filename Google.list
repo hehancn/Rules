@@ -18,7 +18,6 @@ DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,getmdl.io
-DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,godoc.org
@@ -44,14 +43,12 @@ DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,youtube.com
@@ -138,6 +135,12 @@ DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,page.link
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,blogspot
 IP-CIDR,173.194.0.0/16,no-resolve
